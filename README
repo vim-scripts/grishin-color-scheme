@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4773
+
+I like original koehler scheme. However, it offers little help in catching magic numbers in the code (see Steve McConnell's advice regarding "no magic numbers" in his "Code Complete 2"); this modified scheme will help in catching all of them. String literals and bools are marked in purple, number constants in red.
+
+You can preview it here:
+www.pyramidheadgroup.ca/~ygrishin/public/grishin-vim-color-scheme.png
